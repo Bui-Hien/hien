@@ -1351,4 +1351,7 @@ ter {
         display: flex;
         flex-direction: column;
     }
+    body{
+        background: #3f78e0 !important;
+    }
 }
